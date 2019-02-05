@@ -10,6 +10,7 @@ namespace RazorPagiesMovie
     public class Program
     {
         //Edited in GitHub
+        //Code was added in vs
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
